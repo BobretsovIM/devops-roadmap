@@ -1,6 +1,8 @@
 Изучаем Devops вместе, курс составил ChatGPT, учитель ChatGPT.
 
 Шаг 1: Введение в DevOps, основы Linux и работа с репозиториями# devops-roadmap
+1.1 Изучаем базовые команды linux_basics.md
+1.2 Пишим первый скрипт file_in_dir.sh
 
 Шаг 2: CI/CD, Docker и контейнеризация
 
