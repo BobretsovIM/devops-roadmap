@@ -76,3 +76,4 @@ echo "Домашняя директория: $HOME"`
 - Проверяет, существует ли файл testfile.txt.
 
 ### Решение:
+Можно посмотреть тут: [file_in_dir.sh](https://github.com/BobretsovIM/devops-roadmap/blob/main/bash_scripts/file_in_dir.sh)
