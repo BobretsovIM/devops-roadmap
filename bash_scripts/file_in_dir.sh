@@ -11,13 +11,10 @@ echo "Количество файлов в текущей директории: 
 
 # Проверить существует ли файл "text.txt" в текщей директории
 
-if [ -f "text.txt" ]; then
-	echo "Файл существует"
+if [ -f "textfile.txt" ]; then
+	echo "Файл textfile.txt существует"
 else
-	echo "Такого файла не существует в данной директории"
+	echo "Файл textfile.txt не найден"
 fi
 
-#test -e text.txt
-
-#echo $?
 
